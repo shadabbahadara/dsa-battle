@@ -1,4 +1,4 @@
-package com.khan;
+package com.khan.misc;
 
 public class ClockAngle {
 
